@@ -337,3 +337,5 @@ handlers.TestES6Class = function(args) {
   	let foo = new Boo("User Name");
   	log.info(foo.name);
 }
+
+handlers.Empty = function(args) {}
