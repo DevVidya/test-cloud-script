@@ -321,7 +321,7 @@ handlers.RoomEventRaised = function (args) {
     }
 };
 
-class Boo {
+export class Boo {
   
   	constructor(name) {
       	this._name = name;
