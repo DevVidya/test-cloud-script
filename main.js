@@ -343,3 +343,5 @@ handlers.Empty = function(args) {}
 handlers.Empty2 = function(args) {}
 
 handlers.Empty3 = function(args) {}
+
+handlers.Empty4 = function(args) {}
