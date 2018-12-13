@@ -333,7 +333,7 @@ class Boo {
   
 }
 
-module.exports = { Boo };
+module.export = { Boo };
 
 handlers.TestES6Class = function(args) {
   	let foo = new Boo("User Name");
