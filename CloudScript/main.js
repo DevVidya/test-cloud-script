@@ -339,3 +339,5 @@ handlers.TestES6Class = function(args) {
 }
 
 handlers.Empty = function(args) {}
+
+handlers.Empty2 = function(args) {}
