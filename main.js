@@ -321,7 +321,7 @@ handlers.RoomEventRaised = function (args) {
     }
 };
 
-export class Boo {
+class Boo {
   
   	constructor(name) {
       	this._name = name;
@@ -332,6 +332,8 @@ export class Boo {
     }
   
 }
+
+module.exports = { Boo };
 
 handlers.TestES6Class = function(args) {
   	let foo = new Boo("User Name");
